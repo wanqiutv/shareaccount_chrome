@@ -1,0 +1,27 @@
+{
+	"name": "ShareAccount",
+	"version": "1.0",
+	"description": "Share Account",
+	
+	"browser_action": {
+		"default_icon": { 
+			"48": "img/share.png"
+		},
+		"default_title": "share",
+		"default_popup": "popup.html"
+	},
+	
+	
+	"background": {
+		// "scripts" : ["/lib/jquery-2.0.3.min.js", "/lib/object-watch.js", "/js/cookie_helpers.js", "/js/utils.js", "/js/data.js", "/js/background.js", "/devtools/background-devtools.js", "/js/ga.js"]
+	},
+	
+	"permissions": [
+		"tabs",
+		"cookies",
+        "http://localhost:8080/",
+		"http://10.75.145.123:8080/"
+	],
+	"minimum_chrome_version": "18",
+	"manifest_version": 2
+}
