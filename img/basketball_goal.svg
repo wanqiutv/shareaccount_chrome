@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200px" height="140px" viewBox="0 0 200 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>basketball_goal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="200" height="140" rx="8"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="200" height="140" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="50" y="70" width="100" height="5" rx="2.5"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="100" height="5" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="basketball_goal">
+            <use id="background" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#F9C471" xlink:href="#path-1"></use>
+            <g id="nets" transform="translate(68.000000, 75.000000)" stroke-width="2" fill="#D8D8D8" fill-opacity="0.01">
+                <polygon id="Triangle" stroke="#FFFFFF" transform="translate(12.000000, 24.000000) rotate(180.000000) translate(-12.000000, -24.000000) " points="12 2.84217094e-14 24 48 -2.52637417e-14 48"></polygon>
+                <polygon id="Triangle" stroke="#FFF9ED" transform="translate(26.000000, 24.000000) rotate(180.000000) translate(-26.000000, -24.000000) " points="26 2.84217094e-14 38 48 14 48"></polygon>
+                <polygon id="Triangle" stroke="#FFFFFF" transform="translate(40.000000, 24.000000) rotate(180.000000) translate(-40.000000, -24.000000) " points="40 2.84217094e-14 52 48 28 48"></polygon>
+                <polygon id="Triangle" stroke="#FFFFFF" transform="translate(52.000000, 24.000000) rotate(180.000000) translate(-52.000000, -24.000000) " points="52 2.84217094e-14 64 48 40 48"></polygon>
+            </g>
+            <use id="ring" stroke="#C75924" mask="url(#mask-4)" stroke-width="2" fill="#FF5821" xlink:href="#path-3"></use>
+            <g id="basketball" transform="translate(26.000000, 22.000000)" fill-rule="nonzero">
+                <path d="M22.9482072,16.7266614 C15.7068048,16.5227092 9.17928287,13.7689243 4.79359363,9.58728287 C1.93788048,13.3609243 0.203952191,17.9505657 2.84217094e-14,22.9482072 L22.9482072,22.9482072 L22.9482072,16.7266614 Z" id="Shape" fill="#FF5821"></path>
+                <path d="M6.11952191,8.05740239 C10.0972112,11.9330677 16.2167331,14.4829004 22.9482072,14.6868526 L22.9482072,1.42108547e-13 C16.2167331,0.305976096 10.3011633,3.36573705 6.11952191,8.05740239 Z" id="Shape" fill="#FF5821"></path>
+                <path d="M24.9880159,0 L24.9880159,14.5848287 C31.8215139,14.3808765 37.839012,11.8310438 41.8167012,7.95537849 C37.6350598,3.36573705 31.71949,0.305976096 24.9880159,0 Z" id="Shape" fill="#FF5821"></path>
+                <path d="M24.9880159,22.9482072 L47.9362231,22.9482072 C47.7322709,17.9505657 45.9983426,13.3609243 43.1426295,9.58728287 C38.7569402,13.7689243 32.2295139,16.4206853 24.9880159,16.7266614 L24.9880159,22.9482072 Z" id="Shape" fill="#FF5821"></path>
+                <path d="M22.9482072,24.9880159 L2.84217094e-14,24.9880159 C0.203952191,29.9856574 1.93788048,34.5752988 4.79359363,38.3490359 C9.17928287,34.1672988 15.7068048,31.5155378 22.9482072,31.2095618 L22.9482072,24.9880159 Z" id="Shape" fill="#FF5821"></path>
+                <path d="M41.8167012,39.8789163 C37.839012,36.003251 31.71949,33.4534183 24.9880159,33.2494661 L24.9880159,47.8342948 C31.71949,47.630247 37.6350598,44.5704861 41.8167012,39.8789163 Z" id="Shape" fill="#FF5821"></path>
+                <path d="M24.9880159,24.9880159 L24.9880159,31.2095618 C32.2294183,31.4135139 38.7569402,34.1672988 43.1426295,38.3490359 C45.9984382,34.5752988 47.7322709,29.9856574 47.9362231,24.9881116 L24.9880159,24.9880159 L24.9880159,24.9880159 Z" id="Shape" fill="#FF5821"></path>
+                <path d="M22.9482072,47.9362231 L22.9482072,33.2493705 C16.1147092,33.4533227 10.0972112,36.0031554 6.11952191,39.8788207 C10.3011633,44.5704861 16.2167331,47.630247 22.9482072,47.9362231 Z" id="Shape" fill="#FE6125"></path>
+                <path d="M24.9880159,24.9880159 L47.9362231,24.9880159 L47.9362231,23.9680637 L47.9362231,22.9481116 L24.9880159,22.9481116 L24.9880159,16.7265657 C32.2294183,16.5226135 38.7569402,13.7688287 43.1426295,9.58709163 C42.7346295,9.07716335 42.3267251,8.56713944 41.8167012,8.05721116 C37.839012,11.9328765 31.71949,14.4827092 24.9880159,14.6866614 L24.9880159,0 L23.9680637,0 L22.9482072,0 L22.9482072,14.5848287 C16.1147092,14.3808765 10.0972112,11.8310438 6.11952191,7.95537849 C5.60959363,8.56733068 5.20159363,9.07725896 4.79359363,9.58728287 C9.17928287,13.7689243 15.7068048,16.4206853 22.9482072,16.7266614 L22.9482072,22.9482072 L0,22.9482072 L0,23.9681594 L0,24.9881116 L22.9482072,24.9881116 L22.9482072,31.2095618 C15.7068048,31.4135139 9.17928287,34.1672988 4.79359363,38.3490359 C5.20159363,38.8589641 5.60949801,39.368988 6.11952191,39.8789163 C10.0972112,36.003251 16.2167331,33.4534183 22.9482072,33.2494661 L22.9482072,47.8342948 L23.9681594,47.8342948 L24.9881116,47.8342948 L24.9881116,33.2493705 C31.8216096,33.4533227 37.8391076,36.0031554 41.8167968,39.8788207 C42.2247968,39.3688924 42.7347251,38.8588685 43.1427251,38.3489402 C38.7569402,34.1672988 32.2295139,31.5155378 24.9880159,31.2095618 L24.9880159,24.9880159 Z" id="Shape" fill="#FFFFFF"></path>
+                <animateMotion id="anim1" dur="3s" repeatCount="indefinite" fill="freeze" begin="0s; anim2.end">
+                    <mpath xlink:href="#Line"></mpath>
+                </animateMotion>
+                <animateMotion id="anim2" dur="3s" repeatCount="indefinite" fill="freeze" begin="anim1.end" keyPoints="1;0" keyTimes="0;1" calcMode="linear">
+                    <mpath xlink:href="#Line"></mpath>
+                </animateMotion>
+                <animateTransform attributeType="xml" attributeName="transform" type="rotate" values="0 24 24; 360 24 24" dur="3s" additive="sum" repeatCount="indefinite" />
+            </g>
+            <path d="M0,0 L100,0" id="Line" stroke-opacity="0.01" stroke="#D8D8D8" stroke-linecap="square" opacity="0.01"></path>
+        </g>
+    </g>
+</svg>

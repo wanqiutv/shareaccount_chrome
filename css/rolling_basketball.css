@@ -1,0 +1,20 @@
+#basketball{
+    animation:rolling 3s infinite;
+    -webkit-animation: rolling 3s infinite;
+    animation-direction:alternate;
+    -webkit-animation-direction:alternate;
+}
+
+.test{
+    background-color: black;
+}
+
+@keyframes  rolling{
+   from{
+       left: 50px;
+   }
+    to{
+        left: 100px;
+    }
+}
+

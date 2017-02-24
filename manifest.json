@@ -1,26 +1,29 @@
 {
+	"key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDSn5dhR3eTtYJoXe4DW2j9oFWIg71/f21Z3b6tzFva3M9xo07+xUWo9qLmyWkMeisCMhT7VNsuRbP4kIWjWFcFCi/FgtYCWwCV29CVDvj5Xv+Jzrp8znbCICaczf4ZNqCDdk3WrvSBqp1WqRqJ5q8Y7A0aoFRvMoIxqn1/u11rrwIDAQAB",
 	"name": "ShareAccount",
 	"version": "1.0",
 	"description": "Share Account",
 	
 	"browser_action": {
 		"default_icon": { 
-			"48": "img/share.png"
+			"16": "img/basketball_8@2x.png",
+			"24": "img/basketball_8@3x.png",
+			"32": "img/basketball_8@4x.png"
+
 		},
 		"default_title": "share",
 		"default_popup": "popup.html"
 	},
-	
-	
-	"background": {
-		// "scripts" : ["/lib/jquery-2.0.3.min.js", "/lib/object-watch.js", "/js/cookie_helpers.js", "/js/utils.js", "/js/data.js", "/js/background.js", "/devtools/background-devtools.js", "/js/ga.js"]
-	},
-	
+    "icons":{
+      "16": "img/basketball_16.png",
+      "48": "img/basketball_16@3x.png",
+      "128": "img/basketball_16@8x.png"
+    },
 	"permissions": [
 		"tabs",
 		"cookies",
         "http://localhost:8080/",
-		"http://10.75.145.123:8080/"
+		"http://10.75.145.149:8080/"
 	],
 	"minimum_chrome_version": "18",
 	"manifest_version": 2
